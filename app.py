@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from calculator import Calculate
+from calculator import calculate
 
 print("🚀 Calculator App Starting...")
 
